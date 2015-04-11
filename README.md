@@ -1,7 +1,6 @@
 # Machine Learning, Complex Networks, Recommender Systems, Social Networks, Learn to Rank, Spammer Dectection, RTB
 Books,Papers about Machine Learning and Complex Networks which I have read.
 
-<<<<<<< HEAD
 1.[Complex Networks](http://pan.baidu.com/s/1c0vqULM)<br/>
 (1)Collective dynamics of(WS network)<br/>
 (2)The origin of bursts and heavy<br/>
@@ -57,63 +56,7 @@ Books,Papers about Machine Learning and Complex Networks which I have read.
 (52)人类行为时空特性的统计力学06v4<br/>
 (53)物理学报-多关系网络上的流行病传播动力学研究<br/>
 (54)相变和临界现象<br/>
-=======
-1.[Complex Networks](http://pan.baidu.com/s/1c0vqULM)</br>
-(1)Collective dynamics of(WS network)<br/>
-(2)The origin of bursts and heavy</br>
-(3)Burstiness and memory in complex systems</br>
-(4)Calling patterns in human communication dynamics</br>
-(5)Collective response of human populations to large-scale emergencies</br>
-(6)Complex networks - From data to models</br>
-(7)Complex Systems Network</br>
-(8)Diversity of Individual Mobility Patterns
-(9)Drug–target network
-(10)Dynamics of information access on the web
-(11)Dynamics of Ranking Processes in Complex Systems
-(12)Entropy of dialogues creates coherent structures in e-mail traffic
-(13)Evolutionary dynamics of social dilemmas in structured heterogeneous populations
-(14)Exact Results for the Barabasi Model
-(15)Exact solution of gyration radius of individual’s trajectory
-(16)Handful of papers dominates citation
-(17)Heavy-Tailed Statistics in short-MESSAGE communication 
-(18)Human Activity pattern on microblogging Interaction
-(19)human dynamics in the web
-(20)Identifying and evaluating community structure in complex networks
-(21)Interacting Viruses in Networks Can Both Survive
-(22)Limits of Predictability in Human Mobility
-(23)Line Graphs and Circulants
-(24)Link prediction in complex networks A survey
-(25)Modeling human dynamics with adaptive interest
-(26)Network Science at Center
-(27)On Universality in Human Correspondence Activity
-(28)Population movement under extreme events
-(29)power-law and exponential tails in a stochastic priority-based model queue
-(30)Predictability of population displacement after the 2010 Haiti earthquake
-(31)Private traits and attributes are predictable from
-(32)Revealing the Hidden Relationship by Sparse Modules in
-(33)Robust dynamic classes revealed by measuring the
-(34)Scale-Free Networks Provide a Unifying Framework for the Emergence of Cooperation
-(35)Scaling Clustering Algorithms to Large Databases
-(36)Scaling laws of human interaction activity
-(37)Scaling of human behavior during portal browsing
-(38)Sex differences in intimate relationships
-(39)Small but slow world How network topology and burstiness slow down spreading
-(40)The architecture of complexity
-(41)The network takeover
-(42)The outbreak of cooperation among success-driven individuals under noisy conditions
-(43)the scaling laws of human travel
-(44)The spatial structure of networks
-(45)The structure of growing social networks
-(46)Trends Prediction Using Social Diffusion Models
-(47)Uncovering individual and collective human dynamics from mobile phone records
-(48)Universal features of correlated bursty
-(49)Using a complex system approach to address world challenges in Food and Agriculture
-(50)复杂网络中节点重要性排序的研究进展
-(51)基于多子网复合复杂网络的《伤寒论》研究
-(52)人类行为时空特性的统计力学06v4
-(53)物理学报-多关系网络上的流行病传播动力学研究
-(54)相变和临界现象
->>>>>>> origin/master
+
 ______________________________________________________
 
 2.[Machine Learning](http://pan.baidu.com/s/1pJFToGN)<br/>
