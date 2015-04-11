@@ -1,7 +1,7 @@
 # MachineLearningAndComplexNetworks
 Books,Papers about Machine Learning and Complex Networks which I have read.
 
-1.![Complex Networks](http://pan.baidu.com/s/1c0vqULM)
+1.[Complex Networks](http://pan.baidu.com/s/1c0vqULM)
 (1)Collective dynamics of(WS network)
 (2)The origin of bursts and heavy
 (3)Burstiness and memory in complex systems
@@ -58,7 +58,7 @@ Books,Papers about Machine Learning and Complex Networks which I have read.
 (54)相变和临界现象
 ______________________________________________________
 
-2.![Machine Learning](http://pan.baidu.com/s/1pJFToGN)
+2.[Machine Learning](http://pan.baidu.com/s/1pJFToGN)
 (1)统计学习理论的本质
 (2)A Few Useful Things to Know about Machine Learning
 (3)A GenericWeb-Based Entity Resolution Framework
@@ -100,7 +100,7 @@ ______________________________________________________
 (39)数据科学入门必读的7篇重要论文
 ______________________________________________________
 
-3.![Recommender System in CS](http://pan.baidu.com/s/1qWNsMHu)
+3.[Recommender System in CS](http://pan.baidu.com/s/1qWNsMHu)
 (1)A Machine Learning Based Approach for Predicting
 (2)A Social Network-Based Recommender System (SNRS)
 (3)Amazon-Recommendations
@@ -161,7 +161,7 @@ ______________________________________________________
 (58)Algorithms for Non-Negative Matrix Factorization
 ______________________________________________________
 
-4.![Recommender System in Complex Network](http://pan.baidu.com/s/1i37XVSD)
+4.[Recommender System in Complex Network](http://pan.baidu.com/s/1i37XVSD)
 (1)Bipartite networkprojection and personal recommendation
 (2)Effect of initial configuration on network-based Recommendation
 (3)Personalized recommendation via integrated diffusion on user-item-tag tripartite graphs
@@ -174,7 +174,7 @@ ______________________________________________________
 (10)Solving the cold-start problem in recommender systems with social tags
 ______________________________________________________
 
-5.![Spammer Detection](http://pan.baidu.com/s/1eQnLwyQ)
+5.[Spammer Detection](http://pan.baidu.com/s/1eQnLwyQ)
 (1)A Co-classiﬁcation Framework for Detecting Web Spam
 (2)A Data Mining-based Spam Detection System for Social
 (3)Analyzing Spam Messages And Detecting Zombies
@@ -194,7 +194,7 @@ ______________________________________________________
 (17)UNIKUnsupervisedSocialNetworkSpamDetection
 ______________________________________________________
 
-6.![Link Prediction](http://pan.baidu.com/s/1o6FVrnG)
+6.[Link Prediction](http://pan.baidu.com/s/1o6FVrnG)
 (1)A-survey-on-Relation-Extraction
 (2)Human Mobility, Social Ties, and Link Prediction
 (3)Information Extraction as Link Prediction
@@ -205,7 +205,7 @@ ______________________________________________________
 (8)TheLink-Prediction Problem for Social Networks
 ______________________________________________________
 
-7.![Social Networks](http://pan.baidu.com/s/1jGCFDie)
+7.[Social Networks](http://pan.baidu.com/s/1jGCFDie)
 (1)Empirical studies on the network of social groups: the case of Tencent QQ
 (2)Characterizing User Behavior in Online Social Networks
 (3)Communication activity in a social
@@ -220,7 +220,7 @@ ______________________________________________________
 (12)The Role of Social Networks in Online Shopping
 ______________________________________________________
 
-8.![Learn to Rank](http://pan.baidu.com/s/1sjNWHOD)
+8.[Learn to Rank](http://pan.baidu.com/s/1sjNWHOD)
 (1)A Short Introduction to Learning to Rank
 (2)AdaRank A Boosting Algorithm for Information Retrieval
 (3)BPR_Bayesian Personalized Ranking from Implicit Feedback
@@ -248,18 +248,18 @@ ______________________________________________________
 (25)![RankLib](http://people.cs.umass.edu/~vdang/ranklib.html)
 ______________________________________________________
 
-9.![Text Mining](http://pan.baidu.com/s/1eQnfwbg)
+9.[Text Mining](http://pan.baidu.com/s/1eQnfwbg)
 (1)Indexing by LSA
 (2)基于潜在语义分析的文本研究
 ______________________________________________________
 
-10.![Online Learning](http://pan.baidu.com/s/1sj7bGPR)
+10.[Online Learning](http://pan.baidu.com/s/1sj7bGPR)
 (1)Dual Averaging Methods for Regularized Stochastic Learning
 (2)Follow-the-Regularized-Leader and Mirror Descent
 (3)Efficient Learning using Forward-Backward Splitting
 ______________________________________________________
 
-11.![Optimization Algorithm, Math and Compressive Sensing](http://pan.baidu.com/s/1o6ws0jg)
+11.[Optimization Algorithm, Math and Compressive Sensing](http://pan.baidu.com/s/1o6ws0jg)
 (1)最优化理论与方法（袁亚湘）
 (2)十五个经典算法研究
 (3)运用遗传算法求解TSP问题的探讨
@@ -274,14 +274,14 @@ ______________________________________________________
 (12)Robust Reconstruction of Complex Networks from Sparse Data
 ______________________________________________________
 
-12.![Deep Learning](http://pan.baidu.com/s/1c0tUXGW)
+12.[Deep Learning](http://pan.baidu.com/s/1c0tUXGW)
 (1)Acoustic Modeling and Deep Learning
 (2)Deep learning for Signal Processing
 (3)Deep Learning in NLP
 (4)deeplearning
 ______________________________________________________
 
-13.![Urban Computation](http://pan.baidu.com/s/1bnq9prp)
+13.[Urban Computation](http://pan.baidu.com/s/1bnq9prp)
 (1)Activity Recognition from Trajectory Data
 (2)Computational Social Science
 (3)Constructing Popular Routes from Uncertain Trajectories
@@ -297,7 +297,7 @@ ______________________________________________________
 (13)城市计算与大数据
 ______________________________________________________
 
-14.![Hadoop](http://pan.baidu.com/s/1c0cudWk)
+14.[Hadoop](http://pan.baidu.com/s/1c0cudWk)
 (1)Hadoop安装配置
 (2)Hadoop技术内幕：深入解析MapReduce架构设计i与实现原理
 (3)Hive编程
@@ -309,7 +309,7 @@ ______________________________________________________
 (9)实战Hadop：开启通向云计算的捷径
 ______________________________________________________
 
-15.![Real Time Bidding](http://pan.baidu.com/s/1ntHtqwp)
+15.[Real Time Bidding](http://pan.baidu.com/s/1ntHtqwp)
 (1)Ad Click Prediction a View from the Trenches
 (2)ipinyou-dataset
 (3)Real-Time Bidding Benchmarking with iPinYou Dataset
@@ -318,7 +318,7 @@ ______________________________________________________
 (6)秒针大赛总结
 ______________________________________________________
 
-16.![Feature Engineering](http://pan.baidu.com/s/1o6kNk4E)
+16.[Feature Engineering](http://pan.baidu.com/s/1o6kNk4E)
 (1)Discover Feature Engineering
 (2)特征工程
 (3)特征工程系列文章C1
@@ -328,13 +328,13 @@ ______________________________________________________
 (7)微博僵尸粉的行为特征和识别方法
 ______________________________________________________
 
-17.![Data And Analysis](http://pan.baidu.com/s/1o6okWYm)
+17.[Data And Analysis](http://pan.baidu.com/s/1o6okWYm)
 (1)Scientific Data Has Become So Complex, We Have to Invent New Math to Deal With It
 (2)TwitterDataAnalytics
 (3)爬虫报告 [兼容模式]
 ______________________________________________________
 
-18.![Books I Like](http://pan.baidu.com/s/1dDvUPTB)
+18.[Books I Like](http://pan.baidu.com/s/1dDvUPTB)
 (1)Algorithms
 (2)the-long-tail-why-the-future-of-business-is-selling-less-of-more
 (3)Ensemble Methods Foundations and Algorithms
@@ -346,7 +346,7 @@ ______________________________________________________
 (9)思考的乐趣
 ______________________________________________________
 
-19.![Writing And Something relative](http://pan.baidu.com/s/1i328tJv)
+19.[Writing And Something relative](http://pan.baidu.com/s/1i328tJv)
 (1)How To Write a proposal
 (2)how_to_be_a_successful_phd_student
 (3)Mathematical Writing
