@@ -1,14 +1,14 @@
 # Machine Learning, Complex Networks, Recommender Systems, Social Networks, Learn to Rank, Spammer Dectection, RTB
 Books,Papers about Machine Learning and Complex Networks which I have read.
 
-1.[Complex Networks](http://pan.baidu.com/s/1c0vqULM)
-(1)Collective dynamics of(WS network)
-(2)The origin of bursts and heavy
-(3)Burstiness and memory in complex systems
-(4)Calling patterns in human communication dynamics
-(5)Collective response of human populations to large-scale emergencies
-(6)Complex networks - From data to models
-(7)Complex Systems Network
+1.[Complex Networks](http://pan.baidu.com/s/1c0vqULM)</br>
+(1)Collective dynamics of(WS network)</br>
+(2)The origin of bursts and heavy</br>
+(3)Burstiness and memory in complex systems</br>
+(4)Calling patterns in human communication dynamics</br>
+(5)Collective response of human populations to large-scale emergencies</br>
+(6)Complex networks - From data to models</br>
+(7)Complex Systems Network</br>
 (8)Diversity of Individual Mobility Patterns
 (9)Drug–target network
 (10)Dynamics of information access on the web
