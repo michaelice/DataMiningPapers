@@ -245,7 +245,7 @@ ______________________________________________________
 (22)RANDOM FORESTS
 (23)Yahoo! Learning to Rank Challenge Overview
 (24)Query Chains Learning to Rank from Implicit Feedback
-(25)![RankLib](http://people.cs.umass.edu/~vdang/ranklib.html)
+(25)[RankLib](http://people.cs.umass.edu/~vdang/ranklib.html)
 ______________________________________________________
 
 9.[Text Mining](http://pan.baidu.com/s/1eQnfwbg)
