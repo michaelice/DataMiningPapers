@@ -2,7 +2,7 @@
 Books,Papers about Machine Learning and Complex Networks which I have read.
 
 1.[Complex Networks](http://pan.baidu.com/s/1c0vqULM)</br>
-(1)Collective dynamics of(WS network)</br>
+(1)Collective dynamics of(WS network)<br/>
 (2)The origin of bursts and heavy</br>
 (3)Burstiness and memory in complex systems</br>
 (4)Calling patterns in human communication dynamics</br>
