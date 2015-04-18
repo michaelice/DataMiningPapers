@@ -160,6 +160,11 @@ ______________________________________________________
 (56)Collaborative filtering for implicit feedback datasets<br/>
 (57)One-class Collaborative Filtering<br/>
 (58)Algorithms for Non-Negative Matrix Factorization<br/>
+(59)Factorization Meets the Neighborhood a Multifaceted Collaborative Filtering Model<br/>
+(60)SVDFeature A Toolkit for Feature-based Collaborative Filtering<br/>
+(61)General Functional Matrix Factorization Using Gradient Boosting<br/>
+(62)Speeding Up the Xbox Recommender System Using a Euclidean Transformation for Inner-Product Spaces<br/>
+(63)Learning Binary Codes for Collaborative Filtering<br/>
 ______________________________________________________
 
 4.[Recommender System in Complex Network](http://pan.baidu.com/s/1i37XVSD)<br/>
@@ -252,6 +257,7 @@ ______________________________________________________
 9.[Text Mining](http://pan.baidu.com/s/1eQnfwbg)<br/>
 (1)Indexing by LSA<br/>
 (2)基于潜在语义分析的文本研究<br/>
+(3)文本挖掘技术site
 ______________________________________________________
 
 10.[Online Learning](http://pan.baidu.com/s/1sj7bGPR)<br/>
@@ -273,6 +279,10 @@ ______________________________________________________
 (10)Compressive Sensing and Structured Random<br/>
 (11)Reconstructing Propagation Networks<br/>
 (12)Robust Reconstruction of Complex Networks from Sparse Data<br/>
+(13)Numerical Optimization_ Understanding L-BFGS — aria42<br/>
+(14)Lasso – Regularized Regression<br/>
+(15)Regularizati on Ridge Regression and the LASSO<br/>
+(16)A fast and simple algorithm for training neural probabilistic language models<br/>
 ______________________________________________________
 
 12.[Deep Learning](http://pan.baidu.com/s/1c0tUXGW)<br/>
@@ -310,13 +320,18 @@ ______________________________________________________
 (9)实战Hadop：开启通向云计算的捷径<br/>
 ______________________________________________________
 
-15.[Real Time Bidding](http://pan.baidu.com/s/1ntHtqwp)<br/>
+15.[Real Time Bidding and online ads](http://pan.baidu.com/s/1ntHtqwp)<br/>
 (1)Ad Click Prediction a View from the Trenches<br/>
 (2)ipinyou-dataset<br/>
 (3)Real-Time Bidding Benchmarking with iPinYou Dataset<br/>
 (4)Relational Click Prediction for Sponsored Search<br/>
 (5)RTB (Real Time Bidding)<br/>
 (6)秒针大赛总结<br/>
+(7)Multi-Touch Attribution Based Budget Allocation in Online Advertising<br/>
+(8)Practical Lessons from Predicting Clicks on Ads at Facebook<br/>
+(9)Counterfactual Reasoning and Learning Systems The Example of Computational Advertising<br/>
+(10)微信广告系统介绍_综合概述<br/>
+(11)A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising<br/>
 ______________________________________________________
 
 16.[Feature Engineering](http://pan.baidu.com/s/1o6kNk4E)<br/>
@@ -327,6 +342,17 @@ ______________________________________________________
 (5)特征工程系列文章C3<br/>
 (6)特征工程系列文章C4<br/>
 (7)微博僵尸粉的行为特征和识别方法<br/>
+(8)Feature Extraction, Foundations and Applications<br/>
+(9)FeatureEngineering(1)<br/>
+(10)feature engineering(2)<br/>
+(11)Feature engineering(3)<br/>
+(12)Introduction to feature selection<br/>
+(13)What is the intuitive explanation of feature engineering in machine learning<br/>
+(14)Feature Engineerin and Selection<br/>
+(15)Feature Engineering and Classifier Ensemble for KDD Cup 2010<br/>
+(16)featureEngineering_website<br/>
+(17)Market Makers - Milestone 1 Description V2 1<br/>
+
 ______________________________________________________
 
 17.[Data And Analysis](http://pan.baidu.com/s/1o6okWYm)<br/>
