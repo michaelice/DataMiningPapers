@@ -384,9 +384,12 @@ ______________________________________________________
 (8)如何写一篇好的论文<br/>
 (9)一份不太简短的LATEX 2ε介绍<br/>
 
-20.Coursera
+20.Materials
 (1)[Machine Leaning Foundation](http://pan.baidu.com/s/1dDGT9Nr)<br/>
 (2)[Machine Learning Technique](http://pan.baidu.com/s/1hqy68Iw)<br/>
 (3)[Recommender Systems](http://pan.baidu.com/s/14O22U)<br/>
 (4)[Machine Learning](https://www.coursera.org/course/ml)<br/>
+(5)[KDD2015](http://pan.baidu.com/s/1dD0g0tr)<br/>
+(6)[KDD2014](http://pan.baidu.com/s/1bn7BVXl)<br/>
+(7)[KDD2012](http://pan.baidu.com/s/1pJsu3ft)<br/>
 
