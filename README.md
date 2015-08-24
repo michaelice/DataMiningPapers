@@ -384,7 +384,7 @@ ______________________________________________________
 (8)如何写一篇好的论文<br/>
 (9)一份不太简短的LATEX 2ε介绍<br/>
 
-20.Materials
+20.Materials<br/>
 (1)[Machine Leaning Foundation](http://pan.baidu.com/s/1dDGT9Nr)<br/>
 (2)[Machine Learning Technique](http://pan.baidu.com/s/1hqy68Iw)<br/>
 (3)[Recommender Systems](http://pan.baidu.com/s/14O22U)<br/>
